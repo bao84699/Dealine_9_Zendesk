@@ -443,11 +443,16 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 70px;
+    gap: 13px;
     width: 1088px;
     height: 42.98px;
 }
-
+.s8_logo {
+    display: flex;
+    justify-content: center;
+    height: 42.98px;
+    width: 988px;
+}
 .section8_frame2_1_2 {
     height: 518px;
     display: flex;
@@ -689,6 +694,7 @@ p {
     padding-left: 8px;
     box-sizing: border-box;
     display: flex;
+    justify-content: center;
     justify-content: space-between;
 }
 .section10_frame2_content {
